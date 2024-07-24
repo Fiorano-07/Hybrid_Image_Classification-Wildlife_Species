@@ -1,4 +1,5 @@
 **Overview**
+
 This project focuses on building a machine learning model for classifying wildlife species using image data. It leverages hybrid models combining DenseNet121 and ResNet50 architectures along with a logistic regression model to enhance prediction accuracy.
 
 ## Table of Contents
